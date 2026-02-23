@@ -1,20 +1,20 @@
 <h1 align="center"> 🤖 MULTI DEVICE WHATSAPP BOT </h1>
 
 <div align="center"> 
-  <a href="https://youtube.com/@GlobalTechInfo"> 
-    <img src="https://github.com/GlobalTechInfo/MEGA-MD/blob/main/assets/bot_image.jpg" alt="MEGA AI" height="300"> 
+  <a href="https://youtube.com/@Xchristech"> 
+    <img src="https://github.com/Xchristech2/GAAJU-MD/blob/main/assets/bot_image.jpg" alt="GAAJU AI" height="300"> 
   </a> 
 </div>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=GlobalTechInfo&label=Profile+Views&color=success&style=flat-square" />
-<img src="https://img.shields.io/github/stars/GlobalTechInfo/MEGA-MD?color=blue&style=yellow-square" />
-<img src="https://img.shields.io/github/forks/GlobalTechInfo/MEGA-MD?color=ff00ff&style=flat-square" />
-<img src="https://img.shields.io/github/repo-size/GlobalTechInfo/MEGA-MD?color=success&style=flat-square" />
-<img src="https://img.shields.io/github/last-commit/GlobalTechInfo/MEGA-MD?color=yellow&style=flat-square" />
-<a href="https://discord.gg/fZ7MVJM9sq">
-  <img title="Join our Discord" src="https://img.shields.io/discord/1391898062494105752?label=Discord&logo=discord&logoColor=white&style=flat-square&color=7289DA" alt="Discord">
+<img src="https://komarev.com/ghpvc/?username=Xchristech2 &label=Profile+Views&color=success&style=flat-square" />
+<img src="https://img.shields.io/github/stars/Xchristech2/GAAJU-MD?color=blue&style=yellow-square" />
+<img src="https://img.shields.io/github/forks/Xchristech2/GAAJU-MD?color=ff00ff&style=flat-square" />
+<img src="https://img.shields.io/github/repo-size/Xchristech2/GAAJU-MD?color=success&style=flat-square" />
+<img src="https://img.shields.io/github/last-commit/Xchristech2/GAAJU-MD?color=yellow&style=flat-square" />
+<a href="[https://discord.gg/fZ7MVJM9sq](https://chat.whatsapp.com/HhuLiSRKTzdCP4NjCXkt21)">
+  <img title="Join our WhatsApp" src="https://chat.whatsapp.com/HhuLiSRKTzdCP4NjCXkt21?label=WhatsApp&logo=WhatsApp&logoColor=white&style=flat-square&color=7289DA" alt="WhatsApp">
 </a>
 </div>
 
