@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/github/forks/Xchristech2/GAAJU-MD?color=ff00ff&style=flat-square" />
 <img src="https://img.shields.io/github/repo-size/Xchristech2/GAAJU-MD?color=success&style=flat-square" />
 <img src="https://img.shields.io/github/last-commit/Xchristech2/GAAJU-MD?color=yellow&style=flat-square" />
-<a href="[https://discord.gg/fZ7MVJM9sq](https://chat.whatsapp.com/HhuLiSRKTzdCP4NjCXkt21)">
+<a href="[https://chat.whatsapp.com/HhuLiSRKTzdCP4NjCXkt21])">
   <img title="Join our WhatsApp" src="https://chat.whatsapp.com/HhuLiSRKTzdCP4NjCXkt21?label=WhatsApp&logo=WhatsApp&logoColor=white&style=flat-square&color=7289DA" alt="WhatsApp">
 </a>
 </div>
