@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/github/repo-size/Xchristech2/GAAJU-MD?color=success&style=flat-square" />
 <img src="https://img.shields.io/github/last-commit/Xchristech2/GAAJU-MD?color=yellow&style=flat-square" />
 <a href="https://chat.whatsapp.com/HhuLiSRKTzdCP4NjCXkt21">
-    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
+    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp group"/>
 </a>
 </div>
 
@@ -73,7 +73,7 @@ Click the button below to fork the Mega Md repository to your GitHub account:
 1. [Sign Up on Heroku](https://signup.heroku.com/) if you haven’t already.
 2. Click the button below to deploy directly In Heroku:
    <br>
-   <a href='https://heroku.com/deploy?template=https://github.com/GlobTechInfo/MEGA-MD/Bypass' target="_blank">
+   <a href='https://heroku.com/deploy?template=https://github.com/Xchristech2/GAAJU-MD/Bypass' target="_blank">
       <img alt='Deploy In Heroku' src='https://img.shields.io/badge/-DEPLOY%20NOW-purple?style=for-the-badge&logo=heroku&logoColor=white'/>
    </a>
 
@@ -169,7 +169,7 @@ Click the button below to fork the Mega Md repository to your GitHub account:
 
 ## About
 
-The MEGA AI WhatsApp Bot assists group admins by providing them with tools to efficiently manage large WhatsApp groups. The bot uses the Baileys library to interact with the WhatsApp Web API and supports multi-device features.
+The GAAJU AI WhatsApp Bot assists group admins by providing them with tools to efficiently manage large WhatsApp groups. The bot uses the Baileys library to interact with the WhatsApp Web API and supports multi-device features.
 
 It is lightweight and can be easily customized to add more commands as per your requirements. The bot runs in a Node.js environment and provides QR code-based authentication to link your WhatsApp account.
 
@@ -205,7 +205,7 @@ npm install && npm start
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/GlobalTechInfo/MEGA-MD/blob/main/LICENSE) file for details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/Xchristech2/GAAJU-MD/blob/main/LICENSE) file for details.
 
 ---
 
