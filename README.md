@@ -139,10 +139,10 @@ Click the button below to fork the Mega Md repository to your GitHub account:
 ### Join Us
 
 <div align="center">
-  <a href="https://t.me/GlobalTechBots">
+  <a href="https://t.me/ZenitsuBotupdate">
     <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
   </a>
-  <a href="https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07">
+  <a href="https://whatsapp.com/channel/0029VbBvGgyFsn0alyIDjw0z">
     <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
   </a>
 </div>
@@ -192,15 +192,15 @@ proot-distro login ubuntu
 apt update && apt upgrade -y && apt install -y git ffmpeg build-essential libvips-dev curl webp nodejs npm
 ```
 ```
-git clone https://github.com/<your gitHub Username>/MEGA-MD
-cd MEGA-MD
+git clone https://github.com/<your gitHub Username>/GAAJU-MD
+cd GAAJU-MD
 ```
 ```
 npm install && npm start
 ```
 ---
 
-- Note if npm throws error just exit from ubuntu terminal and login again then `cd MEGA-MD && npm install`
+- Note if npm throws error just exit from ubuntu terminal and login again then `cd GAAJU-MD && npm install`
 
 
 ## License
@@ -211,20 +211,20 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Contributions
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/GlobalTechInfo/MEGA-MD/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Xchristech2/GAAJU-MD/issues).
 
 ---
 
 ## 🌟 Show your support
 
-If you like this project, please give it a [⭐️ star on GitHub](https://github.com/GlobalTechInfo/MEGA-MD)!
+If you like this project, please give it a [⭐️ star on GitHub](https://github.com/Xchristech2/GAAJU-MD)!
 
 
 ## Credits
 
-| [![Qasim Ali](https://github.com/GlobalTechInfo.png?size=100)](https://github.com/GlobalTechInfo) | [![WhiskeySockets](https://github.com/WhiskeySockets.png?size=100)](https://github.com/WhiskeySockets) |
+| [![Chris Gaaju](https://github.com/Xchristech2.png?size=100)](https://github.com/Xchristech2) | [![WhiskeySockets](https://github.com/WhiskeySockets.png?size=100)](https://github.com/WhiskeySockets) |
 | --- | --- 
-| [Qasim Ali](https://github.com/GlobalTechInfo) |[WhiskeySockets](https://github.com/WhiskeySockets) |
+| [Chris Gaaju](https://github.com/Xchristech2) |[WhiskeySockets](https://github.com/WhiskeySockets) |
 
 ---
 
