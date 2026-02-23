@@ -20,7 +20,7 @@
 
 ---
  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=MEGA+PRO+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=GAAJU+PRO+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="Typing SVG"/>
 </p>
 
 ---
@@ -32,7 +32,7 @@
 Click the button below to fork the Mega Md repository to your GitHub account:
 
 <div align="center">
-  <a href="https://github.com/GlobalTechInfo/MEGA-MD/fork">
+  <a href="https://github.com/Xchristech2/GAAJU-MD/fork">
     <img src="https://img.shields.io/badge/Fork-Repo-orange?style=for-the-badge" alt="Fork the repository"/>
   </a>
 </div>
@@ -41,11 +41,7 @@ Click the button below to fork the Mega Md repository to your GitHub account:
 
 ### Step 2: Get Pair Code
 
-Easily connect to your WhatsApp account by pair code.
 
-<div align="center">
-  <a href="https://mega-pairing.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/SESSION-ID-ff4d4d?style=for-the-badge" alt="Generate Pair Code"/>
   </a>
 </div>
 
