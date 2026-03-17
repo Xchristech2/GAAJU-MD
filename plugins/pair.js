@@ -35,7 +35,7 @@ export default {
             contextInfo: forwardInfo
         }, { quoted: message });
         try {
-            const response = await axios.get(`https://mega-pairing.onrender.com/pair?number=${number}`, {
+            const response = await axios.get(`https://gaaju3-pairing.onrender.com/pair?number=${number}`, {
                 timeout: 60000
             });
             if (response.data && response.data.code) {
