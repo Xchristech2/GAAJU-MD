@@ -122,7 +122,7 @@ npm start
 
 ---
 ─────────────────────────────────────────────────
-OWNER_NUMBER=923000000000        # No + sign
+OWNER_NUMBER=234000000000        # No + sign
 
 # ── BOT IDENTITY ─────────────────────────────────────────────
 BOT_NAME=GAAJU-MD-PRO
@@ -218,13 +218,13 @@ npm start
 ```bash
 apt install tmux -y
 
-tmux new -s mega-md    # Start new session
+tmux new -s gaaju-md    # Start new session
 npm start
 
 # Detach:     Ctrl+B → D
-# Re-attach:  tmux attach -t mega-md
+# Re-attach:  tmux attach -t gaaju-md
 # List:       tmux ls
-# Kill:       tmux kill-session -t mega-md
+# Kill:       tmux kill-session -t gaaju-md
 ```
 
 ---
@@ -298,7 +298,7 @@ npm start
    | Key | Value |
    |---|---|
    | `SESSION_ID` | `Xchristech2/GAAJU-MD_your_gist_id` |
-   | `OWNER_NUMBER` | `923001234567` |
+   | `OWNER_NUMBER` | `234001234567` |
 
 4. Click **Run**
 
