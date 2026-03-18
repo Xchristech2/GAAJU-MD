@@ -61,7 +61,7 @@ export default {
 
 *Usage:*
 • \`.add 234051234567\`
-• \`.add +923051234567\`
+• \`.add 234 051234567\`
 • \`.add 234 332 1234567\`
 • Reply to a vcard with \`.add\`
 • Reply to a message with \`.add\``,
