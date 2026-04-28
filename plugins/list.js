@@ -5,7 +5,7 @@ import config from '../config.js';
  *                                                                           *
  *  🌐  GitHub   : https://github.com/Xchristech2                         *
  *  ▶️  YouTube  : https://youtube.com/@Xchristech                       *
- *  💬  WhatsApp : https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07     *
+ *  💬  WhatsApp : https://whatsapp.com/channel/0029VbBvGgyFsn0alyIDjw0z     *
  *                                                                           *
  *    © 2026 Xchristech2. All rights reserved.                            *
  *                                                                           *
