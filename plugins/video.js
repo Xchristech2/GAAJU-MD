@@ -8,7 +8,7 @@ const downloadWithRetry = async (url, retries = 3) => {
         try {
             const { data } = await axios.get(DL_API, {
                 params: { apiKey: API_KEY, format: '360', url },
-                timeout: 90000
+                timeout: 120000
             });
             if (data?.data?.downloadUrl)
                 return data.data;
@@ -63,7 +63,7 @@ export default {
                 video: { url: videoData.downloadUrl },
                 mimetype: 'video/mp4',
                 fileName: `${videoData.title || videoTitle || 'video'}.mp4`,
-                caption: `🎬 *${videoData.title || videoTitle || 'Video'}*\n\n> *_Downloaded by GAAJU-MD_*`
+                caption: `🎬 *${videoData.title || videoTitle || 'Video'}*\n\n> *_Downloaded by MEGA-MD_*`
             }, { quoted: message });
         }
         catch (err) {
